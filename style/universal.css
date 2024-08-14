@@ -1,0 +1,14 @@
+.full-white{
+  color: #FFFFFF;
+}
+/* orange color */
+.orange{
+  color: #E6533C;
+}
+.half-white{
+  color: #FFFFFF50;
+}
+.display{
+  display: flex;
+}
+
